@@ -1,0 +1,3 @@
+#ldd repo
+
+	linux drivers`
